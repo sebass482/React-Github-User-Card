@@ -1,0 +1,16 @@
+body{
+  display:flex;
+  justify-content: center;
+  text-align: center;
+  background-color: black;
+}
+
+.themeDiv{
+  background-color:white;
+  padding-top: 10%;
+
+}
+
+.randomUser{
+  background-color: aqua;
+}
